@@ -1,8 +1,12 @@
 ## Hello
 
-我是一名Android开发，目前正在做自己的出海产品
+我是一名Android开发
 
-[Multi Run](https://multirun.space/)  一个多开App  
+[Multi Run](https://multirun.space/)  一个多开工具App  
+
+[Quick Share](https://quick-share.app/)  一个局域网传输工具App  
+
+[AI Cleaner](https://ai-cleaner.net/)  一个手机存储清理工具App  
 
 [Random Letter](https://randomletter.net/) 随机字符工具站  
 
