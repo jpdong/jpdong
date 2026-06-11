@@ -16,6 +16,8 @@
 
 [Random Letter](https://randomletter.net/) 随机字符工具站  
 
+[Percentage Increase Calculator](https://percentage-increase-calculator.net/) 百分比计算工具站  
+
 [Schedule Builder](https://schedule-builder.net/) 日程表工具站   
 
 [Grow Garden](https://growgarden.cc/) 花园农场游戏站   
