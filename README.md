@@ -8,6 +8,12 @@
 
 [AI Cleaner](https://ai-cleaner.net/)  一个手机存储清理工具App  
 
+[Money Manager](https://money-manager.org/)  一个复式记账工具App 
+
+[Banana AI](https://banana-ai.work/)  一个AI图片编辑网站 
+
+[GTA AI](https://gta-ai.org/)  一个GTA风格的AI图片编辑网站 
+
 [Random Letter](https://randomletter.net/) 随机字符工具站  
 
 [Schedule Builder](https://schedule-builder.net/) 日程表工具站   
