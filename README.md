@@ -1,48 +1,109 @@
-## Hello
+# Hi, I'm Jump Dong 👋
 
-我是一名Android开发
+Android Developer · Indie Hacker · Product Builder
 
-[Multi Run](https://multirun.space/)  一个多开工具App  
+我是一名 Android 开发者，也在持续开发和运营自己的 App、AI 产品与在线工具。
 
-[Quick Share](https://quick-share.app/)  一个局域网传输工具App  
+平时主要关注：
 
-[AI Cleaner](https://ai-cleaner.net/)  一个手机存储清理工具App  
+- 📱 Android / Mobile Development
+- 🌐 Web Development
+- 🤖 AI Applications
+- 🛠️ Indie Hacking
+- 📈 SEO & Product Growth
 
-[Money Manager](https://money-manager.org/)  一个复式记账工具App 
+我喜欢把想法快速做成真正可以使用的产品，并持续通过用户反馈、SEO 和数据进行迭代。
 
-[Banana AI](https://banana-ai.work/)  一个AI图片编辑网站 
+---
 
-[GTA AI](https://gta-ai.org/)  一个GTA风格的AI图片编辑网站 
+## 📱 Apps
 
-[Random Letter](https://randomletter.net/) 随机字符工具站  
+### [Multi Run](https://multirun.space/)
 
-[Percentage Increase Calculator](https://percentage-increase-calculator.net/) 百分比计算工具站  
+Android 多开工具，用于在同一台设备上运行多个应用实例。
 
-[Schedule Builder](https://schedule-builder.net/) 日程表工具站   
+### [Quick Share](https://quick-share.app/)
 
-[Grow Garden](https://growgarden.cc/) 花园农场游戏站   
+跨设备局域网文件传输工具，支持手机与电脑之间快速传输文件。
 
-[Resignation Letter](https://resignation-letter.net/) 辞职信生成工具站   
+### [AI Cleaner](https://ai-cleaner.net/)
 
-[AI SaaS](https://ai-saas.org/)  AI SaaS导航站   
+Android 手机存储清理工具，帮助用户分析和清理无用文件。
 
-[Vibe Coding](https://vibecoding-ai.net/) 氛围编程工具站   
+### [Money Manager](https://money-manager.org/)
 
-[Video To Link](https://video2link.net/) 视频转链接工具站  
+复式记账工具，面向个人财务管理与资产记录。
 
-[Video To Frames](https://video2frames.net/) 视频转图片帧工具站 
+---
 
-<!--
-**jpdong/jpdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 AI Projects
 
-Here are some ideas to get you started:
+### [Banana AI](https://banana-ai.work/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI 图片编辑工具，提供基于人工智能的图片生成与编辑能力。
+
+### [GTA AI](https://gta-ai.org/)
+
+将图片转换为 GTA 风格视觉效果的 AI 图片工具。
+
+
+### [Vibe Coding](https://vibecoding-ai.net/)
+
+Vibe Coding 相关工具与资源网站。
+
+---
+
+## 🛠️ Online Tools
+
+### [Video To Link](https://video2link.net/)
+
+将视频上传并快速生成可分享链接。
+
+### [Video To Frames](https://video2frames.net/)
+
+从视频中提取图片帧，适用于视频分析、素材提取等场景。
+
+### [Random Letter](https://randomletter.net/)
+
+随机字母与随机字符生成工具。
+
+### [Percentage Increase Calculator](https://percentage-increase-calculator.net/)
+
+在线百分比增长计算器。
+
+### [Schedule Builder](https://schedule-builder.net/)
+
+在线日程表与时间安排生成工具。
+
+### [Resignation Letter](https://resignation-letter.net/)
+
+在线辞职信生成工具。
+
+---
+
+## 🌱 Other Projects
+
+### [Grow Garden](https://growgarden.cc/)
+
+花园与农场主题的在线小游戏。
+
+### [AI SaaS](https://ai-saas.org/)
+
+AI SaaS 产品与工具导航站。
+
+---
+
+## 💻 Tech Stack
+
+- Android
+- Kotlin
+- Java
+- Flutter
+- Next.js
+- React
+- Node.js
+- Cloudflare
+- D1
+- R2
+- Firebase
+- AI APIs
