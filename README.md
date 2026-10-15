@@ -51,6 +51,11 @@ AI 图片编辑工具，提供基于人工智能的图片生成与编辑能力�
 
 Vibe Coding 相关工具与资源网站。
 
+
+### [Hotel Lobby AI](https://hotellobbyaigenerator.app/)
+
+Hotel Lobby AI热门视频生成工具。
+
 ---
 
 ## 🛠️ Online Tools
@@ -78,6 +83,10 @@ Vibe Coding 相关工具与资源网站。
 ### [Resignation Letter](https://resignation-letter.net/)
 
 在线辞职信生成工具。
+
+### [Nearby Share](https://nearbyshare.app/)
+
+在线局域网文件分享工具。
 
 ---
 
