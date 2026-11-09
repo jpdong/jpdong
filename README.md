@@ -56,6 +56,15 @@ Vibe Coding 相关工具与资源网站。
 
 Hotel Lobby AI热门视频生成工具。
 
+
+### [Raploom AI](https://rapaivideomaker.com/)
+
+Raploom AI热门Rap视频生成工具。
+
+### [Turnitin AI](https://aicontentchecker.org/)
+
+Turnitin AI文本AI检测工具。
+
 ---
 
 ## 🛠️ Online Tools
@@ -87,6 +96,10 @@ Hotel Lobby AI热门视频生成工具。
 ### [Nearby Share](https://nearbyshare.app/)
 
 在线局域网文件分享工具。
+
+### [Quick Share](https://quickfileshare.net/)
+
+快速文件分享工具。
 
 ---
 
